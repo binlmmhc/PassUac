@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestInvokeARPUninstallStringLauncher", "TestInvokeARPUninstallStringLauncher\TestInvokeARPUninstallStringLauncher.vcproj", "{963C8BBD-347E-4FE5-A437-5888716A8D82}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InvokeARPUninstallStringLauncherInDll", "InvokeARPUninstallStringLauncherInDll\InvokeARPUninstallStringLauncherInDll.vcproj", "{DB61B001-0D32-42F5-868C-D2BD636D6B59}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NewUacMe", "NewUacMe\NewUacMe.vcproj", "{3A4A1BF3-184C-4D8E-877C-26F543DBCE63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{963C8BBD-347E-4FE5-A437-5888716A8D82}.Debug|Win32.ActiveCfg = Debug|Win32
+		{963C8BBD-347E-4FE5-A437-5888716A8D82}.Debug|Win32.Build.0 = Debug|Win32
+		{963C8BBD-347E-4FE5-A437-5888716A8D82}.Release|Win32.ActiveCfg = Release|Win32
+		{963C8BBD-347E-4FE5-A437-5888716A8D82}.Release|Win32.Build.0 = Release|Win32
+		{DB61B001-0D32-42F5-868C-D2BD636D6B59}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB61B001-0D32-42F5-868C-D2BD636D6B59}.Debug|Win32.Build.0 = Debug|Win32
+		{DB61B001-0D32-42F5-868C-D2BD636D6B59}.Release|Win32.ActiveCfg = Release|Win32
+		{DB61B001-0D32-42F5-868C-D2BD636D6B59}.Release|Win32.Build.0 = Release|Win32
+		{3A4A1BF3-184C-4D8E-877C-26F543DBCE63}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3A4A1BF3-184C-4D8E-877C-26F543DBCE63}.Debug|Win32.Build.0 = Debug|Win32
+		{3A4A1BF3-184C-4D8E-877C-26F543DBCE63}.Release|Win32.ActiveCfg = Release|Win32
+		{3A4A1BF3-184C-4D8E-877C-26F543DBCE63}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
